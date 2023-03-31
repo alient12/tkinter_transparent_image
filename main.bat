@@ -1,2 +1,2 @@
 @echo off 
-python .\yas.py
+python .\rounded_yas.py
